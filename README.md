@@ -30,7 +30,7 @@ This project is a website designed to present a variety of services of a company
 
 ## Live Demo
 
-Coming soon...
+https://ashkboosabtin.github.io/company-website/
 
 ## What I Learned
 
